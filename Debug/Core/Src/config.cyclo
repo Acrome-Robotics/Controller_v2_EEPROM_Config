@@ -1,0 +1,4 @@
+../Core/Src/config.c:19:15:parseConfig	4
+../Core/Src/config.c:34:15:readConfig	4
+../Core/Src/config.c:47:15:overrideConfig	3
+../Core/Src/config.c:55:15:defaultConfig	1

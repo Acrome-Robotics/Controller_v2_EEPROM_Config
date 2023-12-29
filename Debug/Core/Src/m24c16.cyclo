@@ -1,0 +1,2 @@
+../Core/Src/m24c16.c:17:15:EEPROMRead	5
+../Core/Src/m24c16.c:41:15:EEPROMWrite	9
